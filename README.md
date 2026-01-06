@@ -4,33 +4,32 @@ Collection of Data Structures and Algorithms problems solved with detailed expla
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 50+
-- **Topics Covered:** 8+
-- **Languages Used:** C++, Java, Python
+- **Total Problems Solved:** 5
+- **Topics Covered:** 1
+- **Languages Used:** C++
 
 ## 📂 Repository Structure
 ```
 DSA-Practice/
 ├── Arrays/           # Array manipulation problems
-├── Strings/          # String operations
-├── LinkedList/       # Linked list problems
-├── Trees/           # Binary trees, BST
-├── Graphs/          # Graph algorithms
-├── Sorting/         # Sorting techniques
-├── Searching/       # Binary search, etc.
-└── Dynamic-Programming/  # DP problems
+├── 
+├── 
+├── 
+├── 
+├── 
+├── 
+└── 
 ```
 
 ## 🎯 Problem Format
 
 Each solution includes:
-- ✅ Problem description and link
+- ✅ Problem name and I will provide mainly logic
 - ✅ Difficulty level
 - ✅ Brute force approach with complexity
 - ✅ Optimized approach with complexity
-- ✅ Detailed comments explaining logic
 
-## 🚀 Topics Covered
+## 🚀 Topics will be Covered
 
 - Arrays & Hashing
 - Two Pointers
@@ -47,7 +46,7 @@ Each solution includes:
 
 Currently focusing on:
 - Mastering DSA patterns
-- Solving problems from LeetCode, GFG, CodeForces
+- Solving problems from LeetCode
 - Understanding time and space complexity optimization
 - Building strong problem-solving foundation
 
